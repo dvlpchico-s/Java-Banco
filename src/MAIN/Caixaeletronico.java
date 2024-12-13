@@ -1,4 +1,4 @@
-package projeto2;
+package MAIN;
 
 public class Caixaeletronico extends Cliente {
 	protected double saque;

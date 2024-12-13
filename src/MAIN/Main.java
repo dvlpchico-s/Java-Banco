@@ -1,4 +1,4 @@
-package projeto2;
+package MAIN;
 import java.util.Scanner;
 public class Main {
 	public static Scanner leitor1= new Scanner(System.in);

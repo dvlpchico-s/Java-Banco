@@ -1,4 +1,4 @@
-package projeto2;
+package MAIN;
 
 public class Funcionario extends Pessoa{
 	protected String rg;

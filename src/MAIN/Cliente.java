@@ -1,4 +1,4 @@
-package projeto2;
+package MAIN;
 
 public class Cliente extends Pessoa {
 	protected String senha;
